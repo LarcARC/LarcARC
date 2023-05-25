@@ -15,3 +15,4 @@ I'm an ADS student at [Unipe](https://www.unipe.edu.br) focusing on learning fro
 
 ##
 
+![snake gif](https://github.com/LarcARC/LarcARC/blob/output/github-contribution-grid-snake.svg)
