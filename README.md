@@ -1,16 +1,14 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/murilo-batista-7925b5150/" target="_blank" rel="nofollow"><img align="right" alt="Pratik's Linkdein" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**LarcARC/LarcARC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋 I am Murilo! 
+I'm an ADS student at [Unipe](https://www.unipe.edu.br) focusing on learning front-end
 
-Here are some ideas to get you started:
+- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+- 👋 Currently studying python and js
+- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=LarcARC&show_icons=true&theme=radical" width = 450>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LarcARC&layout=compact&theme=radical" width = 400>
+</p>
