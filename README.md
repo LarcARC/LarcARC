@@ -9,6 +9,9 @@ I'm an ADS student at [Unipe](https://www.unipe.edu.br) focusing on learning fro
 
 ---
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LarcARC&show_icons=true&theme=radical" width = 450>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LarcARC&layout=compact&theme=radical" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=LarcARC&show_icons=true&theme=radical" width = 350>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LarcARC&layout=compact&theme=radical" width = 300>
 </p>
+
+##
+
