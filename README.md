@@ -3,11 +3,8 @@
 ## Hi 👋 I am Murilo! 
 I'm an ADS student at [Unipe](https://www.unipe.edu.br) focusing on learning front-end
 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
-- 👋 Currently studying python and js
-- ✍️ [Medium Profile](https://pr2tik1.medium.com/)
-
 ---
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=LarcARC&show_icons=true&theme=radical" width = 350>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LarcARC&layout=compact&theme=radical" width = 313>
